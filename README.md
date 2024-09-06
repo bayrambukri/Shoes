@@ -1,3 +1,9 @@
+Ekran Videosu:
+
+
+
+
+
 # Teknolojiler
 
 - react
